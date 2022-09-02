@@ -1,20 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=matteomessmer&count_private=true&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteomessmer&layout=compact&theme=cobalt)
+<div align="left">
+  <a href="https://www.linkedin.com/in/matteomessmer/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=matteomessmer&count_private=true&show_icons=true&theme=cobalt">
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteomessmer&layout=compact&theme=cobalt">
 
-<!--
-**matteomessmer/matteomessmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+## I am Matteo Messmer
+  
+- 🔭 I’m currently working on Sharepoint WebParts written in React and desktop software for reading and writing data on PLCs with C# using protocols such as OPC UA, TCP, HTTP and more.
+- 🌱 I’m currently learning Blender for 3d modeling and animation.
+- 📫 How to reach me: matteo.messmer[at]gmail.com
+  
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
