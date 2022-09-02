@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Stats](https://github-readme-stats.vercel.app/api?username=matteomessmer&count_private=true&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteomessmer&layout=compact&theme=cobalt)
+
 <!--
 **matteomessmer/matteomessmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
