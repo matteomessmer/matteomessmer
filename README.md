@@ -7,6 +7,7 @@
 
 # Hi there 👋
 
+
 <div align="left">
   <a href="https://www.linkedin.com/in/matteomessmer/">
     <img
@@ -14,18 +15,20 @@
       alt="LinkedIn"
     />
   </a>
-  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=matteomessmer&count_private=true&show_icons=true&theme=cobalt">
-  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteomessmer&layout=compact&theme=cobalt">
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=matteomessmer&count_private=true&show_icons=true&theme=cobalt">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteomessmer&layout=compact&theme=cobalt">
   
 ## I am Matteo Messmer
   
 - 🔭 I’m currently working on Sharepoint WebParts written in React and desktop software for reading and writing data on PLCs with C# using protocols such as OPC UA, TCP, HTTP and more.
 - 🌱 I’m currently learning Blender for 3d modeling and animation.
 - 📫 How to reach me: matteo.messmer[at]gmail.com
+
   
+![](https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif)
+
 </div>
 
 </div>
