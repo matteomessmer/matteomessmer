@@ -1,5 +1,11 @@
-# Hi there 👋
 
+
+<div style="padding: 10px;
+    background-color: #8090a0;
+    border-radius: 10px;
+    color: white;">
+
+# Hi there 👋
 
 <div align="left">
   <a href="https://www.linkedin.com/in/matteomessmer/">
@@ -22,4 +28,4 @@
   
 </div>
 
-
+</div>
