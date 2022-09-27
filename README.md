@@ -8,6 +8,7 @@
       alt="LinkedIn"
     />
   </a>
+<img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fmatteomessmer&label=Visitors&labelColor=%23697689&countColor=%232ccce4&style=flat&labelStyle=upper" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=matteomessmer&count_private=true&show_icons=true&theme=cobalt">
 
@@ -20,6 +21,6 @@
 - 📫 How to reach me: matteo.messmer[at]gmail.com
 
 
-<img height="0px" width="0px" src="https://api.visitorbadge.io/api/VisitorHit?user=matteomessmer&repo=github-visitors-badge&countColor=%237B1E7A" />
+
 
 </div>
