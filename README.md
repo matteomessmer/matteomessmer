@@ -1,10 +1,3 @@
-
-
-<div style="padding: 10px;
-    background-color: #8090a0;
-    border-radius: 10px;
-    color: white;">
-
 # Hi there 👋
 
 
@@ -26,6 +19,7 @@
 - 🌱 I’m currently learning Blender for 3d modeling and animation.
 - 📫 How to reach me: matteo.messmer[at]gmail.com
 
-</div>
+
+<img height="0px" width="0px" src="https://api.visitorbadge.io/api/VisitorHit?user=matteomessmer&repo=github-visitors-badge&countColor=%237B1E7A" />
 
 </div>
