@@ -8,19 +8,19 @@
       alt="LinkedIn"
     />
   </a>
-<img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fmatteomessmer&label=Visitors&labelColor=%23697689&countColor=%232ccce4&style=flat&labelStyle=upper" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=matteomessmer&count_private=true&show_icons=true&theme=cobalt">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteomessmer&layout=compact&theme=cobalt">
-  
+    
 ## I am Matteo Messmer
   
 - 🔭 I’m currently working on Sharepoint WebParts written in React and desktop software for reading and writing data on PLCs with C# using protocols such as OPC UA, TCP, HTTP and more.
 - 🌱 I’m currently learning Blender for 3d modeling and animation.
 - 📫 How to reach me: matteo.messmer[at]gmail.com
 
+<img src="https://github-readme-stats.vercel.app/api?username=matteomessmer&count_private=true&show_icons=true&theme=cobalt"></img>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteomessmer&layout=compact&theme=cobalt"></img>
 
-
-
+  
 </div>
+
+
